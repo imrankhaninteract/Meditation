@@ -110,7 +110,7 @@ header ol li {
 }
 
 header ol li:first-child {
-    opacity: 1;
+    opacity: 0.6;
 }
 
 h1 {
