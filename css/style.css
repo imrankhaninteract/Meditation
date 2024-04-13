@@ -18,8 +18,9 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url(https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat fixed center;
+    background: url(https://images.pexels.com/photos/1933319/pexels-photo-1933319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat fixed center;
     background-size: cover;
+    
     animation: scaling 60s linear infinite;
 }
 
